@@ -1,0 +1,1021 @@
+
+
+<!DOCTYPE html>
+<html lang="en" class="no-js-keyboard-focus">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="MobileOptimized" content="320" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>2018 Draw And Results - NRL</title>
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700" rel="stylesheet" />
+    <link href="/Client/dist/app.css?v=4EFED1E8" rel="stylesheet" />
+    <link href="https://www.nrl.com/draw/" rel="canonical" />
+
+      <script>
+        window.NRL_PAGE_DATA = {"pageId":48,"name":"Draw","published":"2017-09-17T04:32:02+00:00","pageType":"draw","path":"78756360/nrl.web/draw","age":"unknown","birthYear":null};
+        window.dataLayer = [window.NRL_PAGE_DATA];
+      </script>
+
+    <script type="text/javascript">
+<!-- Google Tag Manager -->
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PV42QSK');
+<!-- End Google Tag Manager -->
+</script>
+
+
+
+<meta name="description" content="The 2018 Telstra Premiership draw, NRL draw &amp; results, fixture, schedule, State of Origin draw, InTrust Super Cup draw, InTrust Super Premiership draw" />
+
+
+<meta itemprop="name" content="2018 Draw And Results" />
+<meta itemprop="description" content="The 2018 Telstra Premiership draw, NRL draw &amp; results, fixture, schedule, State of Origin draw, InTrust Super Cup draw, InTrust Super Premiership draw" />
+<meta itemprop="image" content="https://www.nrl.com/siteassets/branding/nrl-social-image.png?preset=share" />
+
+
+<meta name="twitter:site" content="@NRL" />
+
+
+<meta property="og:description" content="The 2018 Telstra Premiership draw, NRL draw &amp; results, fixture, schedule, State of Origin draw, InTrust Super Cup draw, InTrust Super Premiership draw" />
+<meta property="og:image" content="https://www.nrl.com/siteassets/branding/nrl-social-image.png?preset=share" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:title" content="2018 Draw And Results" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="National Rugby League" />
+<meta property="og:url" content="https://www.nrl.com/draw/?competition=111&amp;season=2018&amp;round=2" />
+  <meta property="fb:app_id" content="6878248073" />
+
+  <meta name="robots" content="index, follow">
+
+    
+  </head>
+  <body class="t-nrl">
+    <div 
+      id="nrl-dummy-ad"
+      class="o-ad o-ad-dummy pub_300x250 pub_300x250m pub_728x90 text-ad textAd text_ad text_ads text-ads text-ad-links"
+    ></div>
+    <noscript> <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PV42QSK" height="0" width="0" style="display:none;visibility:hidden"></iframe> </noscript>
+    <script>!function () { function o(o, e, n) { var i = o + "-svg", t = new XMLHttpRequest, s = document.body, d = document.createElement("div"), a = n || window.location.protocol + "//" + window.location.hostname + (window.location.port ? ":" + window.location.port : ""), c = a + e, l = " no-svg"; if (d.id = i, s.insertBefore(d, s.childNodes[0]), "withCredentials" in t) t.withCredentials, t.open("GET", c, !0); else { if ("undefined" == typeof XDomainRequest) return void (s.className += l); t = new XDomainRequest, t.open("GET", c) } t.onload = function () { d.className = "u-visually-hidden", d.innerHTML = t.responseText }, t.onerror = function () { s.className += l }, setTimeout(function () { t.send() }, 0) } o("icons", "/Client/dist/svg/icons-sprite.svg")}()</script>
+
+    <div class="l-page">
+
+
+<div class="l-page__secondary">
+  <div id="vue-navigation"
+       class="pre-quench t-local-">
+    <nav aria-labelledby="navigation-title"
+         class="navigation u-t-bg-color-primary "
+         role="navigation"
+         v-bind:class="{ 'is-expanded': state.isNavExpanded }">
+
+      <div class="navigation__headroom" id="js-headroom">
+        <div class="navigation__header js-parallax-adjuster"
+             ref="navMainHeader"
+             v-on:touchmove="preventTouchMove($event, 'navMainHeader')">
+          <h2 id="navigation-title" class="u-visually-hidden">Main</h2>
+
+          <button aria-controls="navigation-menu"
+                  aria-haspopup="true"
+                  aria-label="Main navigation"
+                  class="navigation-hamburger u-disable-hover-when-supports-touch"
+                  v-bind:aria-expanded="state.isNavExpanded"
+                  v-on:click="toggleNav()">
+            <svg-icon class="navigation-hamburger__svg"
+                      v-bind:icon="state.isNavExpanded ? 'cross' : 'hamburger'"></svg-icon>
+          </button>
+
+          <div class="navigation-logo">
+            <a href="/" class="navigation-logo__link">
+              <img alt="nrl logo" class="navigation-logo__badge" src="/client/dist/logos/nrl-badge.svg" />
+              <img alt="nrl logo" class="navigation-logo__text" src="/client/dist/logos/nrl-text.svg" />
+            </a>
+          </div>
+
+          <!-- TODO: Hidden until search is built -->
+          <button aria-hidden="true"
+                  aria-label="Search"
+                  class="navigation-search__small-screen-button u-visibility-hidden"
+                  v-on:click="toggleSearch()">
+            <svg-icon class="navigation-search__small-screen-svg"
+                      icon="magnifier"></svg-icon>
+          </button>
+        </div>
+      </div>
+
+      <div class="navigation__menu u-t-border-color-tint" id="navigation-menu" tabindex="-1" ref="navigationMenu">
+        <custom-scrollbar
+          class="o-themed-scrollbar"
+          v-bind:thumb-class="'u-t-bg-color-secondary'"
+        >
+          <div class="u-t-bg-color-primary u-t-border-color-tint-rm"
+               slot="custom-scroll-target">
+            <ul class="navigation-list navigation-list--primary">
+    <li>
+      <a class="navigation-list__link u-t-border-color-highlight-on-hover o-angle-transition u-disable-hover-when-supports-touch"
+         href="/news/"
+         v-bind:aria-current="isSelected('/news/', false)"
+         v-bind:class="{ 'u-t-border-color-highlight is-selected': isSelected('/news/') }">
+        <div class="o-angle-transition__transitioner u-t-bg-color-tint"></div>
+        News
+      </a>
+    </li>
+    <li>
+      <a class="navigation-list__link u-t-border-color-highlight-on-hover o-angle-transition u-disable-hover-when-supports-touch"
+         href="/watch/"
+         v-bind:aria-current="isSelected('/watch/', false)"
+         v-bind:class="{ 'u-t-border-color-highlight is-selected': isSelected('/watch/') }">
+        <div class="o-angle-transition__transitioner u-t-bg-color-tint"></div>
+        Watch
+      </a>
+    </li>
+    <li>
+      <a class="navigation-list__link u-t-border-color-highlight-on-hover o-angle-transition u-disable-hover-when-supports-touch"
+         href="/draw/"
+         v-bind:aria-current="isSelected('/draw/', false)"
+         v-bind:class="{ 'u-t-border-color-highlight is-selected': isSelected('/draw/') }">
+        <div class="o-angle-transition__transitioner u-t-bg-color-tint"></div>
+        Draw
+      </a>
+    </li>
+    <li>
+      <a class="navigation-list__link u-t-border-color-highlight-on-hover o-angle-transition u-disable-hover-when-supports-touch"
+         href="/ladder/"
+         v-bind:aria-current="isSelected('/ladder/', false)"
+         v-bind:class="{ 'u-t-border-color-highlight is-selected': isSelected('/ladder/') }">
+        <div class="o-angle-transition__transitioner u-t-bg-color-tint"></div>
+        Ladder
+      </a>
+    </li>
+    <li>
+      <a class="navigation-list__link u-t-border-color-highlight-on-hover o-angle-transition u-disable-hover-when-supports-touch"
+         href="/stats/"
+         v-bind:aria-current="isSelected('/stats/', false)"
+         v-bind:class="{ 'u-t-border-color-highlight is-selected': isSelected('/stats/') }">
+        <div class="o-angle-transition__transitioner u-t-bg-color-tint"></div>
+        Stats
+      </a>
+    </li>
+    <li>
+      <a class="navigation-list__link u-t-border-color-highlight-on-hover o-angle-transition u-disable-hover-when-supports-touch"
+         href="/clubs/"
+         v-bind:aria-current="isSelected('/clubs/', false)"
+         v-bind:class="{ 'u-t-border-color-highlight is-selected': isSelected('/clubs/') }">
+        <div class="o-angle-transition__transitioner u-t-bg-color-tint"></div>
+        Clubs
+      </a>
+    </li>
+    <li>
+      <a class="navigation-list__link u-t-border-color-highlight-on-hover o-angle-transition u-disable-hover-when-supports-touch"
+         href="/players/"
+         v-bind:aria-current="isSelected('/players/', false)"
+         v-bind:class="{ 'u-t-border-color-highlight is-selected': isSelected('/players/') }">
+        <div class="o-angle-transition__transitioner u-t-bg-color-tint"></div>
+        Players
+      </a>
+    </li>
+    <li>
+      <a class="navigation-list__link u-t-border-color-highlight-on-hover o-angle-transition u-disable-hover-when-supports-touch"
+         href="https://fantasy.nrl.com/"
+         rel="noopener noreferrer"
+         target="_blank"
+         v-bind:aria-current="isSelected('https://fantasy.nrl.com/', false)"
+         v-bind:class="{ 'u-t-border-color-highlight is-selected': isSelected('https://fantasy.nrl.com/') }">
+        <div class="o-angle-transition__transitioner u-t-bg-color-tint"></div>
+        Fantasy
+      </a>
+    </li>
+    <li>
+      <a class="navigation-list__link u-t-border-color-highlight-on-hover o-angle-transition u-disable-hover-when-supports-touch"
+         href="https://tipping.nrl.com/"
+         rel="noopener noreferrer"
+         target="_blank"
+         v-bind:aria-current="isSelected('https://tipping.nrl.com/', false)"
+         v-bind:class="{ 'u-t-border-color-highlight is-selected': isSelected('https://tipping.nrl.com/') }">
+        <div class="o-angle-transition__transitioner u-t-bg-color-tint"></div>
+        Tipping
+      </a>
+    </li>
+                              <li>
+                  <collapsible button-class="navigation-list__link u-spacing-pr-small u-t-border-color-tint-on-hover o-angle-transition"
+                               v-bind:is-expanded-on-mount="isMoreExpandedOnMount"
+                               v-bind:is-menu-button="true"
+                               v-on:collapsible-toggled="handleMenuButtonToggle">
+                    <template slot="button-content">
+                      <div class="o-angle-transition__transitioner u-t-bg-color-tint"></div>
+                      More
+                    </template>
+                    <ul slot="button-target" class="navigation-list navigation-list--more u-t-bg-color-tint">
+    <li>
+      <a class="navigation-list__link u-t-border-color-highlight-on-hover o-angle-transition u-disable-hover-when-supports-touch"
+         href="/about-us/"
+         v-bind:aria-current="isSelected('/about-us/', true)"
+         v-bind:class="{ 'u-t-border-color-highlight is-selected': isSelected('/about-us/') }">
+        <div class="o-angle-transition__transitioner u-t-bg-color-tint-rm"></div>
+        About Us
+      </a>
+    </li>
+    <li>
+      <a class="navigation-list__link u-t-border-color-highlight-on-hover o-angle-transition u-disable-hover-when-supports-touch"
+         href="/careers/"
+         v-bind:aria-current="isSelected('/careers/', true)"
+         v-bind:class="{ 'u-t-border-color-highlight is-selected': isSelected('/careers/') }">
+        <div class="o-angle-transition__transitioner u-t-bg-color-tint-rm"></div>
+        Careers
+      </a>
+    </li>
+    <li>
+      <a class="navigation-list__link u-t-border-color-highlight-on-hover o-angle-transition u-disable-hover-when-supports-touch"
+         href="/community/"
+         v-bind:aria-current="isSelected('/community/', true)"
+         v-bind:class="{ 'u-t-border-color-highlight is-selected': isSelected('/community/') }">
+        <div class="o-angle-transition__transitioner u-t-bg-color-tint-rm"></div>
+        Community
+      </a>
+    </li>
+    <li>
+      <a class="navigation-list__link u-t-border-color-highlight-on-hover o-angle-transition u-disable-hover-when-supports-touch"
+         href="/hospitality/"
+         v-bind:aria-current="isSelected('/hospitality/', true)"
+         v-bind:class="{ 'u-t-border-color-highlight is-selected': isSelected('/hospitality/') }">
+        <div class="o-angle-transition__transitioner u-t-bg-color-tint-rm"></div>
+        Corporate Hospitality
+      </a>
+    </li>
+    <li>
+      <a class="navigation-list__link u-t-border-color-highlight-on-hover o-angle-transition u-disable-hover-when-supports-touch"
+         href="/operations/"
+         v-bind:aria-current="isSelected('/operations/', true)"
+         v-bind:class="{ 'u-t-border-color-highlight is-selected': isSelected('/operations/') }">
+        <div class="o-angle-transition__transitioner u-t-bg-color-tint-rm"></div>
+        Operations
+      </a>
+    </li>
+    <li>
+      <a class="navigation-list__link u-t-border-color-highlight-on-hover o-angle-transition u-disable-hover-when-supports-touch"
+         href="https://playnrl.com/"
+         v-bind:aria-current="isSelected('https://playnrl.com/', true)"
+         v-bind:class="{ 'u-t-border-color-highlight is-selected': isSelected('https://playnrl.com/') }">
+        <div class="o-angle-transition__transitioner u-t-bg-color-tint-rm"></div>
+        PlayNRL
+      </a>
+    </li>
+                    </ul>
+                  </collapsible>
+                </li>
+            </ul>
+
+            <ul class="navigation-list navigation-list--secondary">
+    <li>
+      <a class="navigation-list__link u-t-border-color-highlight-on-hover o-angle-transition u-disable-hover-when-supports-touch"
+         href="/membership/"
+         v-bind:aria-current="isSelected('/membership/', false)"
+         v-bind:class="{ 'u-t-border-color-highlight is-selected': isSelected('/membership/') }">
+        <div class="o-angle-transition__transitioner u-t-bg-color-tint"></div>
+        Membership
+      </a>
+    </li>
+    <li>
+      <a class="navigation-list__link u-t-border-color-highlight-on-hover o-angle-transition u-disable-hover-when-supports-touch"
+         href="http://tickets.nrl.com/"
+         v-bind:aria-current="isSelected('http://tickets.nrl.com/', false)"
+         v-bind:class="{ 'u-t-border-color-highlight is-selected': isSelected('http://tickets.nrl.com/') }">
+        <div class="o-angle-transition__transitioner u-t-bg-color-tint"></div>
+        Tickets
+      </a>
+    </li>
+    <li>
+      <a class="navigation-list__link u-t-border-color-highlight-on-hover o-angle-transition u-disable-hover-when-supports-touch"
+         href="https://www.nrlshop.com/"
+         v-bind:aria-current="isSelected('https://www.nrlshop.com/', false)"
+         v-bind:class="{ 'u-t-border-color-highlight is-selected': isSelected('https://www.nrlshop.com/') }">
+        <div class="o-angle-transition__transitioner u-t-bg-color-tint"></div>
+        Shop
+      </a>
+    </li>
+            </ul>
+
+          </div>
+        </custom-scrollbar>
+        <div class="u-flex-shrink-0">
+          <!-- TODO: Hidden until search is built -->
+          <button class="navigation-search u-t-bg-color-tint o-angle-transition u-display-none"
+                  v-on:click="toggleSearch()">
+            <div class="o-angle-transition__transitioner u-t-bg-color-tint-rm"></div>
+            <div class="navigation-search__link">
+              <svg-icon class="navigation-search__svg u-t-color-highlight"
+                        icon="magnifier"></svg-icon>
+              Search
+            </div>
+          </button>
+
+            <div class="navigation-account">
+              <template v-if="loggedInUser">
+                <h3 class="u-visually-hidden">
+                  Logged in as
+                  <span v-text="loggedInUser.initials"></span>
+                </h3>
+
+                <a class="navigation-account-user u-t-bg-color-tint o-angle-transition"
+                   href="/account"
+                   v-cloak>
+                  <div class="o-angle-transition__transitioner u-t-bg-color-tint-rm"></div>
+
+                  <h3 class="u-visually-hidden">Logged in as</h3>
+                  <avatar-flipper v-bind:user="loggedInUser"></avatar-flipper>
+
+                  <div class="u-spacing-mt-x-small">My Account</div>
+                </a>
+              </template>
+              <template v-else>
+                <button aria-controls="nrl-account"
+                        class="navigation-account-button u-t-bg-color-tint u-flex-grow-1 o-angle-transition"
+                        v-on:click="showNrlAccount('login')">
+                  <div class="o-angle-transition__transitioner u-t-bg-color-tint-rm"></div>
+                  <svg-icon class="navigation-account-button__svg u-t-color-highlight"
+                            icon="bust"></svg-icon>
+                  Log In
+                </button>
+              </template>
+            </div>
+
+        </div>
+      </div>
+    </nav>
+  </div>
+</div>
+
+      <main role="main" id="js-local-datetime" class="l-page-primary">
+        <div class="l-page-primary__top">
+          
+<div class="page-title ">
+  <div class="page-title-angles">
+    <div class="page-title-angles__angle page-title-angles__angle--big"></div>
+    <div class="page-title-angles__angle page-title-angles__angle--small"></div>
+  </div>
+  <div class="l-content">
+    <div class="l-content__primary">
+      <div class="l-grid">
+        <div class="l-grid__cell l-grid__cell--padding-small l-grid__cell--padding-medium-at-960 l-grid__cell--justify-center">
+          <h1 class="page-title__heading">Draw</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div
+  class="u-spacing-mt-medium"
+  id="vue-draw"
+  q-data="{&quot;drawGroups&quot;:[{&quot;title&quot;:&quot;Thursday 15th March&quot;,&quot;matches&quot;:[{&quot;matchState&quot;:&quot;pre&quot;,&quot;venue&quot;:&quot;Southern Cross Group Stadium&quot;,&quot;ticketsUrl&quot;:&quot;http://premier.ticketek.com.au/shows/Show.aspx?sh=SHA0218&quot;,&quot;homeTeam&quot;:{&quot;nickName&quot;:&quot;Sharks&quot;,&quot;score&quot;:0,&quot;teamPosition&quot;:&quot;0&quot;,&quot;theme&quot;:{&quot;key&quot;:&quot;sharks&quot;,&quot;logoVariants&quot;:[&quot;badge-light.png&quot;,&quot;badge-light.svg&quot;,&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},&quot;awayTeam&quot;:{&quot;nickName&quot;:&quot;Dragons&quot;,&quot;score&quot;:0,&quot;teamPosition&quot;:&quot;0&quot;,&quot;theme&quot;:{&quot;key&quot;:&quot;dragons&quot;,&quot;logoVariants&quot;:[&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},&quot;clock&quot;:{&quot;kickOffTimeShort&quot;:&quot;&quot;,&quot;kickOffTimeLong&quot;:&quot;2018-03-15T08:50:00Z&quot;,&quot;gameTime&quot;:&quot;0:00&quot;},&quot;broadcastChannels&quot;:[&quot;Nine Network&quot;,&quot;Fox League&quot;]}]},{&quot;title&quot;:&quot;Friday 16th March&quot;,&quot;matches&quot;:[{&quot;matchState&quot;:&quot;pre&quot;,&quot;venue&quot;:&quot;Allianz Stadium&quot;,&quot;homeTeam&quot;:{&quot;nickName&quot;:&quot;Roosters&quot;,&quot;score&quot;:0,&quot;teamPosition&quot;:&quot;0&quot;,&quot;theme&quot;:{&quot;key&quot;:&quot;roosters&quot;,&quot;logoVariants&quot;:[&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},&quot;awayTeam&quot;:{&quot;nickName&quot;:&quot;Bulldogs&quot;,&quot;score&quot;:0,&quot;teamPosition&quot;:&quot;0&quot;,&quot;theme&quot;:{&quot;key&quot;:&quot;bulldogs&quot;,&quot;logoVariants&quot;:[&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},&quot;clock&quot;:{&quot;kickOffTimeShort&quot;:&quot;&quot;,&quot;kickOffTimeLong&quot;:&quot;2018-03-16T07:00:00Z&quot;,&quot;gameTime&quot;:&quot;0:00&quot;},&quot;broadcastChannels&quot;:[&quot;Fox League&quot;]},{&quot;matchState&quot;:&quot;pre&quot;,&quot;venue&quot;:&quot;Suncorp Stadium&quot;,&quot;ticketsUrl&quot;:&quot;http://premier.ticketek.com.au/shows/show.aspx?sh=BRON0218&quot;,&quot;homeTeam&quot;:{&quot;nickName&quot;:&quot;Broncos&quot;,&quot;score&quot;:0,&quot;teamPosition&quot;:&quot;0&quot;,&quot;theme&quot;:{&quot;key&quot;:&quot;broncos&quot;,&quot;logoVariants&quot;:[&quot;badge-light.png&quot;,&quot;badge-light.svg&quot;,&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},&quot;awayTeam&quot;:{&quot;nickName&quot;:&quot;Cowboys&quot;,&quot;score&quot;:0,&quot;teamPosition&quot;:&quot;0&quot;,&quot;theme&quot;:{&quot;key&quot;:&quot;cowboys&quot;,&quot;logoVariants&quot;:[&quot;badge-light.png&quot;,&quot;badge-light.svg&quot;,&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},&quot;clock&quot;:{&quot;kickOffTimeShort&quot;:&quot;&quot;,&quot;kickOffTimeLong&quot;:&quot;2018-03-16T08:50:00Z&quot;,&quot;gameTime&quot;:&quot;0:00&quot;},&quot;broadcastChannels&quot;:[&quot;Nine Network&quot;,&quot;Fox League&quot;]}]},{&quot;title&quot;:&quot;Saturday 17th March&quot;,&quot;matches&quot;:[{&quot;matchState&quot;:&quot;pre&quot;,&quot;venue&quot;:&quot;Mt Smart Stadium&quot;,&quot;ticketsUrl&quot;:&quot;http://premier.ticketek.co.nz/shows/Show.aspx?sh=WARR0118&quot;,&quot;homeTeam&quot;:{&quot;nickName&quot;:&quot;Warriors&quot;,&quot;score&quot;:0,&quot;teamPosition&quot;:&quot;0&quot;,&quot;theme&quot;:{&quot;key&quot;:&quot;warriors&quot;,&quot;logoVariants&quot;:[&quot;badge-light.png&quot;,&quot;badge-light.svg&quot;,&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},&quot;awayTeam&quot;:{&quot;nickName&quot;:&quot;Titans&quot;,&quot;score&quot;:0,&quot;teamPosition&quot;:&quot;0&quot;,&quot;theme&quot;:{&quot;key&quot;:&quot;titans&quot;,&quot;logoVariants&quot;:[&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},&quot;clock&quot;:{&quot;kickOffTimeShort&quot;:&quot;&quot;,&quot;kickOffTimeLong&quot;:&quot;2018-03-17T04:00:00Z&quot;,&quot;gameTime&quot;:&quot;0:00&quot;},&quot;broadcastChannels&quot;:[&quot;Fox League&quot;]},{&quot;matchState&quot;:&quot;pre&quot;,&quot;venue&quot;:&quot;Panthers Stadium&quot;,&quot;ticketsUrl&quot;:&quot;http://premier.ticketek.com.au/shows/Show.aspx?sh=PAN0218&quot;,&quot;homeTeam&quot;:{&quot;nickName&quot;:&quot;Panthers&quot;,&quot;score&quot;:0,&quot;teamPosition&quot;:&quot;0&quot;,&quot;theme&quot;:{&quot;key&quot;:&quot;panthers&quot;,&quot;logoVariants&quot;:[&quot;badge-light.png&quot;,&quot;badge-light.svg&quot;,&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},&quot;awayTeam&quot;:{&quot;nickName&quot;:&quot;Rabbitohs&quot;,&quot;score&quot;:0,&quot;teamPosition&quot;:&quot;0&quot;,&quot;theme&quot;:{&quot;key&quot;:&quot;rabbitohs&quot;,&quot;logoVariants&quot;:[&quot;badge-light.png&quot;,&quot;badge-light.svg&quot;,&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},&quot;clock&quot;:{&quot;kickOffTimeShort&quot;:&quot;&quot;,&quot;kickOffTimeLong&quot;:&quot;2018-03-17T06:30:00Z&quot;,&quot;gameTime&quot;:&quot;0:00&quot;},&quot;broadcastChannels&quot;:[&quot;Fox League&quot;]},{&quot;matchState&quot;:&quot;pre&quot;,&quot;venue&quot;:&quot;AAMI Park&quot;,&quot;homeTeam&quot;:{&quot;nickName&quot;:&quot;Storm&quot;,&quot;score&quot;:0,&quot;teamPosition&quot;:&quot;0&quot;,&quot;theme&quot;:{&quot;key&quot;:&quot;storm&quot;,&quot;logoVariants&quot;:[&quot;badge-light.png&quot;,&quot;badge-light.svg&quot;,&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},&quot;awayTeam&quot;:{&quot;nickName&quot;:&quot;Wests Tigers&quot;,&quot;score&quot;:0,&quot;teamPosition&quot;:&quot;0&quot;,&quot;theme&quot;:{&quot;key&quot;:&quot;wests-tigers&quot;,&quot;logoVariants&quot;:[&quot;badge-light.png&quot;,&quot;badge-light.svg&quot;,&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},&quot;clock&quot;:{&quot;kickOffTimeShort&quot;:&quot;&quot;,&quot;kickOffTimeLong&quot;:&quot;2018-03-17T08:30:00Z&quot;,&quot;gameTime&quot;:&quot;0:00&quot;},&quot;broadcastChannels&quot;:[&quot;Fox League&quot;]}]},{&quot;title&quot;:&quot;Sunday 18th March&quot;,&quot;matches&quot;:[{&quot;matchState&quot;:&quot;pre&quot;,&quot;venue&quot;:&quot;Lottoland&quot;,&quot;ticketsUrl&quot;:&quot;http://www.ticketmaster.com.au/manly-warringah-sea-eagles-v-parramatta-brookvale-new-south-wales-18-03-2018/event/1300538678BC1FF3?artistid=1297216&amp;majorcatid=10004&amp;minorcatid=695&quot;,&quot;homeTeam&quot;:{&quot;nickName&quot;:&quot;Sea Eagles&quot;,&quot;score&quot;:0,&quot;teamPosition&quot;:&quot;0&quot;,&quot;theme&quot;:{&quot;key&quot;:&quot;sea-eagles&quot;,&quot;logoVariants&quot;:[&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},&quot;awayTeam&quot;:{&quot;nickName&quot;:&quot;Eels&quot;,&quot;score&quot;:0,&quot;teamPosition&quot;:&quot;0&quot;,&quot;theme&quot;:{&quot;key&quot;:&quot;eels&quot;,&quot;logoVariants&quot;:[&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},&quot;clock&quot;:{&quot;kickOffTimeShort&quot;:&quot;&quot;,&quot;kickOffTimeLong&quot;:&quot;2018-03-18T05:10:00Z&quot;,&quot;gameTime&quot;:&quot;0:00&quot;},&quot;broadcastChannels&quot;:[&quot;Nine Network&quot;,&quot;Fox League&quot;]},{&quot;matchState&quot;:&quot;pre&quot;,&quot;venue&quot;:&quot;GIO Stadium&quot;,&quot;ticketsUrl&quot;:&quot;http://premier.ticketek.com.au/shows/Show.aspx?sh=RAI0218&quot;,&quot;homeTeam&quot;:{&quot;nickName&quot;:&quot;Raiders&quot;,&quot;score&quot;:0,&quot;teamPosition&quot;:&quot;0&quot;,&quot;theme&quot;:{&quot;key&quot;:&quot;raiders&quot;,&quot;logoVariants&quot;:[&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},&quot;awayTeam&quot;:{&quot;nickName&quot;:&quot;Knights&quot;,&quot;score&quot;:0,&quot;teamPosition&quot;:&quot;0&quot;,&quot;theme&quot;:{&quot;key&quot;:&quot;knights&quot;,&quot;logoVariants&quot;:[&quot;badge-light.png&quot;,&quot;badge-light.svg&quot;,&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},&quot;clock&quot;:{&quot;kickOffTimeShort&quot;:&quot;&quot;,&quot;kickOffTimeLong&quot;:&quot;2018-03-18T07:30:00Z&quot;,&quot;gameTime&quot;:&quot;0:00&quot;},&quot;broadcastChannels&quot;:[&quot;Fox League&quot;]}]}],&quot;filterCompetitions&quot;:[{&quot;name&quot;:&quot;Telstra Premiership&quot;,&quot;value&quot;:111,&quot;theme&quot;:{&quot;key&quot;:&quot;nrl-premiership&quot;,&quot;logoVariants&quot;:[&quot;badge.png&quot;,&quot;badge.svg&quot;]}},{&quot;name&quot;:&quot;State of Origin&quot;,&quot;value&quot;:116,&quot;theme&quot;:{&quot;key&quot;:&quot;state-of-origin&quot;,&quot;logoVariants&quot;:[&quot;badge.png&quot;,&quot;badge.svg&quot;]}},{&quot;name&quot;:&quot;Intrust Super Cup&quot;,&quot;value&quot;:114,&quot;theme&quot;:{&quot;key&quot;:&quot;intrust-super-cup&quot;,&quot;logoVariants&quot;:[&quot;badge.png&quot;,&quot;badge.svg&quot;]}},{&quot;name&quot;:&quot;Intrust Super Premiership&quot;,&quot;value&quot;:113,&quot;theme&quot;:{&quot;key&quot;:&quot;intrust-super-premiership&quot;,&quot;logoVariants&quot;:[&quot;badge.png&quot;,&quot;badge.svg&quot;]}},{&quot;name&quot;:&quot;Pre-season Trials&quot;,&quot;value&quot;:119,&quot;theme&quot;:{&quot;key&quot;:&quot;pre-season-trials&quot;}}],&quot;filterSeasons&quot;:[{&quot;name&quot;:&quot;2018&quot;,&quot;value&quot;:2018},{&quot;name&quot;:&quot;2017&quot;,&quot;value&quot;:2017},{&quot;name&quot;:&quot;2016&quot;,&quot;value&quot;:2016},{&quot;name&quot;:&quot;2015&quot;,&quot;value&quot;:2015},{&quot;name&quot;:&quot;2014&quot;,&quot;value&quot;:2014},{&quot;name&quot;:&quot;2013&quot;,&quot;value&quot;:2013},{&quot;name&quot;:&quot;2012&quot;,&quot;value&quot;:2012},{&quot;name&quot;:&quot;2011&quot;,&quot;value&quot;:2011},{&quot;name&quot;:&quot;2010&quot;,&quot;value&quot;:2010},{&quot;name&quot;:&quot;2009&quot;,&quot;value&quot;:2009},{&quot;name&quot;:&quot;2008&quot;,&quot;value&quot;:2008},{&quot;name&quot;:&quot;2007&quot;,&quot;value&quot;:2007},{&quot;name&quot;:&quot;2006&quot;,&quot;value&quot;:2006},{&quot;name&quot;:&quot;2005&quot;,&quot;value&quot;:2005},{&quot;name&quot;:&quot;2004&quot;,&quot;value&quot;:2004},{&quot;name&quot;:&quot;2003&quot;,&quot;value&quot;:2003},{&quot;name&quot;:&quot;2002&quot;,&quot;value&quot;:2002},{&quot;name&quot;:&quot;2001&quot;,&quot;value&quot;:2001},{&quot;name&quot;:&quot;2000&quot;,&quot;value&quot;:2000},{&quot;name&quot;:&quot;1999&quot;,&quot;value&quot;:1999},{&quot;name&quot;:&quot;1998&quot;,&quot;value&quot;:1998}],&quot;filterRounds&quot;:[{&quot;name&quot;:&quot;Round 1&quot;,&quot;value&quot;:1},{&quot;name&quot;:&quot;Round 2&quot;,&quot;value&quot;:2},{&quot;name&quot;:&quot;Round 3&quot;,&quot;value&quot;:3},{&quot;name&quot;:&quot;Round 4&quot;,&quot;value&quot;:4},{&quot;name&quot;:&quot;Round 5&quot;,&quot;value&quot;:5},{&quot;name&quot;:&quot;Round 6&quot;,&quot;value&quot;:6},{&quot;name&quot;:&quot;Round 7&quot;,&quot;value&quot;:7},{&quot;name&quot;:&quot;Round 8&quot;,&quot;value&quot;:8},{&quot;name&quot;:&quot;Round 9&quot;,&quot;value&quot;:9},{&quot;name&quot;:&quot;Round 10&quot;,&quot;value&quot;:10},{&quot;name&quot;:&quot;Round 11&quot;,&quot;value&quot;:11},{&quot;name&quot;:&quot;Round 12&quot;,&quot;value&quot;:12},{&quot;name&quot;:&quot;Round 13&quot;,&quot;value&quot;:13},{&quot;name&quot;:&quot;Round 14&quot;,&quot;value&quot;:14},{&quot;name&quot;:&quot;Round 15&quot;,&quot;value&quot;:15},{&quot;name&quot;:&quot;Round 16&quot;,&quot;value&quot;:16},{&quot;name&quot;:&quot;Round 17&quot;,&quot;value&quot;:17},{&quot;name&quot;:&quot;Round 18&quot;,&quot;value&quot;:18},{&quot;name&quot;:&quot;Round 19&quot;,&quot;value&quot;:19},{&quot;name&quot;:&quot;Round 20&quot;,&quot;value&quot;:20},{&quot;name&quot;:&quot;Round 21&quot;,&quot;value&quot;:21},{&quot;name&quot;:&quot;Round 22&quot;,&quot;value&quot;:22},{&quot;name&quot;:&quot;Round 23&quot;,&quot;value&quot;:23},{&quot;name&quot;:&quot;Round 24&quot;,&quot;value&quot;:24},{&quot;name&quot;:&quot;Round 25&quot;,&quot;value&quot;:25}],&quot;filterTeams&quot;:[{&quot;name&quot;:&quot;Broncos&quot;,&quot;value&quot;:500011,&quot;theme&quot;:{&quot;key&quot;:&quot;broncos&quot;,&quot;logoVariants&quot;:[&quot;badge-light.png&quot;,&quot;badge-light.svg&quot;,&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},{&quot;name&quot;:&quot;Bulldogs&quot;,&quot;value&quot;:500010,&quot;theme&quot;:{&quot;key&quot;:&quot;bulldogs&quot;,&quot;logoVariants&quot;:[&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},{&quot;name&quot;:&quot;Cowboys&quot;,&quot;value&quot;:500012,&quot;theme&quot;:{&quot;key&quot;:&quot;cowboys&quot;,&quot;logoVariants&quot;:[&quot;badge-light.png&quot;,&quot;badge-light.svg&quot;,&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},{&quot;name&quot;:&quot;Dragons&quot;,&quot;value&quot;:500022,&quot;theme&quot;:{&quot;key&quot;:&quot;dragons&quot;,&quot;logoVariants&quot;:[&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},{&quot;name&quot;:&quot;Eels&quot;,&quot;value&quot;:500031,&quot;theme&quot;:{&quot;key&quot;:&quot;eels&quot;,&quot;logoVariants&quot;:[&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},{&quot;name&quot;:&quot;Knights&quot;,&quot;value&quot;:500003,&quot;theme&quot;:{&quot;key&quot;:&quot;knights&quot;,&quot;logoVariants&quot;:[&quot;badge-light.png&quot;,&quot;badge-light.svg&quot;,&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},{&quot;name&quot;:&quot;Panthers&quot;,&quot;value&quot;:500014,&quot;theme&quot;:{&quot;key&quot;:&quot;panthers&quot;,&quot;logoVariants&quot;:[&quot;badge-light.png&quot;,&quot;badge-light.svg&quot;,&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},{&quot;name&quot;:&quot;Rabbitohs&quot;,&quot;value&quot;:500005,&quot;theme&quot;:{&quot;key&quot;:&quot;rabbitohs&quot;,&quot;logoVariants&quot;:[&quot;badge-light.png&quot;,&quot;badge-light.svg&quot;,&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},{&quot;name&quot;:&quot;Raiders&quot;,&quot;value&quot;:500013,&quot;theme&quot;:{&quot;key&quot;:&quot;raiders&quot;,&quot;logoVariants&quot;:[&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},{&quot;name&quot;:&quot;Roosters&quot;,&quot;value&quot;:500001,&quot;theme&quot;:{&quot;key&quot;:&quot;roosters&quot;,&quot;logoVariants&quot;:[&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},{&quot;name&quot;:&quot;Sea Eagles&quot;,&quot;value&quot;:500002,&quot;theme&quot;:{&quot;key&quot;:&quot;sea-eagles&quot;,&quot;logoVariants&quot;:[&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},{&quot;name&quot;:&quot;Sharks&quot;,&quot;value&quot;:500028,&quot;theme&quot;:{&quot;key&quot;:&quot;sharks&quot;,&quot;logoVariants&quot;:[&quot;badge-light.png&quot;,&quot;badge-light.svg&quot;,&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},{&quot;name&quot;:&quot;Storm&quot;,&quot;value&quot;:500021,&quot;theme&quot;:{&quot;key&quot;:&quot;storm&quot;,&quot;logoVariants&quot;:[&quot;badge-light.png&quot;,&quot;badge-light.svg&quot;,&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},{&quot;name&quot;:&quot;Titans&quot;,&quot;value&quot;:500004,&quot;theme&quot;:{&quot;key&quot;:&quot;titans&quot;,&quot;logoVariants&quot;:[&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},{&quot;name&quot;:&quot;Warriors&quot;,&quot;value&quot;:500032,&quot;theme&quot;:{&quot;key&quot;:&quot;warriors&quot;,&quot;logoVariants&quot;:[&quot;badge-light.png&quot;,&quot;badge-light.svg&quot;,&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}},{&quot;name&quot;:&quot;Wests Tigers&quot;,&quot;value&quot;:500023,&quot;theme&quot;:{&quot;key&quot;:&quot;wests-tigers&quot;,&quot;logoVariants&quot;:[&quot;badge-light.png&quot;,&quot;badge-light.svg&quot;,&quot;badge.png&quot;,&quot;badge.svg&quot;,&quot;silhouette.png&quot;,&quot;silhouette.svg&quot;,&quot;text.svg&quot;]}}],&quot;isNrl&quot;:true,&quot;selectedCompetitionId&quot;:111,&quot;selectedSeasonId&quot;:2018,&quot;selectedRoundId&quot;:2,&quot;selectedTeamId&quot;:0}"
+  q-r-data='{"targeting": "NRL_PAGE_DATA"}'
+>
+  <div class="filter">
+    <div class="u-spacing-mb-medium">
+      <div class="l-content">
+        <div class="l-content__primary">
+          <div class="l-grid">
+            <div class="l-grid__cell l-grid__cell--padding-medium-at-960 l-grid__cell--100">
+              <div class="filter__wrapper filter__wrapper--has-border u-bg-color-white">
+                <filter-dropdown
+                  aria-controls="draw-content"
+                  button-text="Browse Competitions"
+                  filter-name="competition"
+                  v-bind:options="availableFilterCompetitions"
+                  v-bind:selected-option="selectedCompetition"
+                  v-if="filterCompetitions.length > 0"
+                  v-on:option-selected="handleFilterChange"
+                ></filter-dropdown>
+
+                <filter-dropdown
+                  aria-controls="draw-content"
+                  button-text="Browse Seasons"
+                  class="filter-dropdown--50-until-768"
+                  filter-name="season"
+                  v-bind:options="availableFilterSeasons"
+                  v-bind:selected-option="selectedSeason"
+                  v-if="filterSeasons.length > 0"
+                  v-on:option-selected="handleFilterChange"
+                ></filter-dropdown>
+
+                <filter-dropdown
+                  aria-controls="draw-content"
+                  button-text="Browse Teams"
+                  class="filter-dropdown--50-until-768"
+                  filter-name="team"
+                  v-bind:options="availableFilterTeams"
+                  v-bind:selected-option="selectedTeam"
+                  v-if="filterTeams.length > 2"
+                  v-on:option-selected="handleFilterChange"
+                ></filter-dropdown>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="l-content">
+      <div class="l-content__primary">
+        <div class="l-grid">
+          <div class="l-grid__cell l-grid__cell--padding-small l-grid__cell--padding-medium-at-960">
+            <filter-dropdown
+              aria-controls="draw-content"
+              class="filter-round-wrapper--draw"
+              filter-name="round"
+              v-bind:options="availableFilterRounds"
+              v-bind:round-filter="true"
+              v-bind:selected-option="selectedRound"
+              v-if="selectedTeamId === 0 && filterTeams.length > 2 && filterRounds.length > 0"
+              v-on:option-selected="handleFilterChange"
+            ></filter-dropdown>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- <q> -->
+  <div class="loading-indicator loading-indicator--position-center">
+    <svg
+      class="o-svg loading-indicator__svg a-spin"
+      focusable="false"
+      role="img"
+    >
+      <use xlink:href="#svg-crescent" />
+    </svg>
+  </div>
+  <!-- </q> -->
+
+  <div
+    class="l-content"
+    id="draw-content"
+    v-cloak
+  >
+    <div class="l-content__primary">
+      <div class="l-grid">
+        <div class="l-grid__cell l-grid__cell--padding-small l-grid__cell--padding-medium-at-960">
+          <loading-indicator
+            position="center"
+            v-if="state.isFetching"
+          ></loading-indicator>
+
+          <section
+            class="o-section o-section--quarter-gutter"
+            v-if="state.hasFetchError"
+          >
+            <div class="section-title section-title--sub u-spacing-mt-medium u-spacing-pt-small">
+              <h2 class="section-title__header">
+                We tryed to load the drawer. Wait, no. We tried to load the draw. Can we start again?
+              </h2>
+            </div>
+          </section>
+
+          <section
+            class="o-section o-section--quarter-gutter"
+            v-if="!state.hasFetchError && !drawGroups"
+          >
+            <div class="section-title section-title--sub u-spacing-pt-small">
+              <h2 class="section-title__header">
+                No data available for current selection
+              </h2>
+            </div>
+          </section>
+
+          <section
+            class="o-section o-section--quarter-gutter"
+            v-for="item in drawGroups"
+          >
+            <div class="section-title section-title--sub u-spacing-pt-small">
+              <h2
+                class="section-title__header"
+                v-text="item.title"
+              ></h2>
+            </div>
+
+            <ul class="l-grid l-grid--spacing-small l-grid--spacing-medium-at-960">
+              <template v-if="item.matches">
+                <li
+                  class="l-grid__cell l-grid__cell--100"
+                  v-for="match in item.matches"
+                >
+                  <card-match
+                    v-bind:is-nrl="isNrl"
+                    v-bind:match-data="match"
+                  ></card-match>
+
+                  <div class="u-spacing-n-mh-small">
+                    <ad
+                      additional-class="u-spacing-mt-medium"
+                      alias="DAS-02"
+                      v-bind:pos="1"
+                      v-bind:targeting="targeting"
+                      v-if="adInsertionId === match.clock.kickOffTimeLong + match.homeTeam.nickName"
+                    ></ad>
+                  </div>
+                </li>
+              </template>
+              <template v-else>
+                <li class="l-grid__cell l-grid__cell--100">
+                  <ul
+                    class="o-shadowed-box card-match-bye"
+                    v-bind:aria-hidden="index === 2"
+                    v-bind:class="'card-match-bye--show-' + (index === 1 ? '1-4' : '5-8')"
+                    v-for="index in 2"
+                    v-if="index === 1 || (index === 2 && item.byes.length > 4)"
+                  >
+                    <li
+                      class="card-match-bye-team"
+                      v-for="bye in item.byes"
+                    >
+                      <logo
+                        class="card-match-team__svg"
+                        v-bind:theme="bye.theme"
+                      ></logo>
+                      <span
+                        class="u-visually-hidden"
+                        v-text="bye.teamNickName"
+                      ></span>
+                      <span
+                        class="h3 card-match-bye__text"
+                        v-if="item.byes.length === 1"
+                      >
+                        Bye
+                      </span>
+                      <div class="o-white-bg-with-grey-angle"></div>
+                    </li>
+                  </ul>
+                </li>
+              </template>
+            </ul>
+          </section>
+
+          <div class="u-spacing-n-mh-small">
+            <ad
+              additional-class="u-spacing-mb-large"
+              alias="DAS-02"
+              v-bind:pos="2"
+              v-bind:targeting="targeting"
+            ></ad>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+        </div>
+        <div class="l-page-primary__bottom">
+  <div class="partners ">
+    <div class="l-content">
+      <div class="l-grid">
+        <div class="l-grid__cell l-grid__cell--padding-small l-grid__cell--padding-medium-at-960 l-grid__cell--100">
+          <h4 class="partners__title">Corporate Partners</h4>
+        </div>
+            <div class="l-grid__cell l-grid__cell--100 l-grid__cell--16-at-768 l-grid__cell--justify-center">
+                <a href="https://www.telstra.com.au/" target="_blank" class="partners__link">
+                  <img class="partners__major-logo" src="/siteassets/sponsorship/telstra.svg?preset=sponsor-large" />
+                </a>
+            </div>
+
+        <div class="l-grid__cell l-grid__cell--100 l-grid__cell--auto-at-768 l-grid__cell--padding-small l-grid__cell--padding-medium-at-960">
+          <div class="partners-other l-grid">
+                <div class="l-grid__cell l-grid__cell--50 l-grid__cell--33-at-360 l-grid__cell--16-at-1200">
+                  <a href="https://ad.doubleclick.net/ddm/clk/407944188;208244482;o" target="_blank" class="partners__link partners__link--other">
+                    <img class="partners-other__logo" src="/siteassets/sponsorship/sportsbet.svg?preset=sponsor-small" />
+                  </a>
+                </div>
+                <div class="l-grid__cell l-grid__cell--50 l-grid__cell--33-at-360 l-grid__cell--16-at-1200">
+                  <a href="http://cub.com.au/" target="_blank" class="partners__link partners__link--other">
+                    <img class="partners-other__logo" src="/siteassets/sponsorship/cub-abinbev.svg?preset=sponsor-small" />
+                  </a>
+                </div>
+                <div class="l-grid__cell l-grid__cell--50 l-grid__cell--33-at-360 l-grid__cell--16-at-1200">
+                  <a href="https://www.holden.com.au/" target="_blank" class="partners__link partners__link--other">
+                    <img class="partners-other__logo" src="/siteassets/.lookups/sponsors/holden-small.png?preset=sponsor-small" />
+                  </a>
+                </div>
+                <div class="l-grid__cell l-grid__cell--50 l-grid__cell--33-at-360 l-grid__cell--16-at-1200">
+                  <a href="https://www.youi.com.au/" target="_blank" class="partners__link partners__link--other">
+                    <img class="partners-other__logo" src="/siteassets/.lookups/sponsors/youi.svg?preset=sponsor-small" />
+                  </a>
+                </div>
+                <div class="l-grid__cell l-grid__cell--50 l-grid__cell--33-at-360 l-grid__cell--16-at-1200">
+                  <a href="http://www.bundabergrum.com.au/" target="_blank" class="partners__link partners__link--other">
+                    <img class="partners-other__logo" src="/siteassets/.lookups/sponsors/bundaberg-small.png?preset=sponsor-small" />
+                  </a>
+                </div>
+                <div class="l-grid__cell l-grid__cell--50 l-grid__cell--33-at-360 l-grid__cell--16-at-1200">
+                  <a href="https://www.kfc.com.au/" target="_blank" class="partners__link partners__link--other">
+                    <img class="partners-other__logo" src="/siteassets/sponsorship/kfc.svg?preset=sponsor-small" />
+                  </a>
+                </div>
+                <div class="l-grid__cell l-grid__cell--50 l-grid__cell--33-at-360 l-grid__cell--16-at-1200">
+                  <a href="https://www.harveynorman.com.au/" target="_blank" class="partners__link partners__link--other">
+                    <img class="partners-other__logo" src="/siteassets/sponsorship/harveynorman.svg?preset=sponsor-small" />
+                  </a>
+                </div>
+                <div class="l-grid__cell l-grid__cell--50 l-grid__cell--33-at-360 l-grid__cell--16-at-1200">
+                  <a href="https://www.ccamatil.com/" target="_blank" class="partners__link partners__link--other">
+                    <img class="partners-other__logo" src="/siteassets/.lookups/sponsors/coca-cola-amatil.svg?preset=sponsor-small" />
+                  </a>
+                </div>
+                <div class="l-grid__cell l-grid__cell--50 l-grid__cell--33-at-360 l-grid__cell--16-at-1200">
+                  <a href="http://www.hankooktire.com/au/" target="_blank" class="partners__link partners__link--other">
+                    <img class="partners-other__logo" src="/siteassets/sponsorship/hankook.svg?preset=sponsor-small" />
+                  </a>
+                </div>
+                <div class="l-grid__cell l-grid__cell--50 l-grid__cell--33-at-360 l-grid__cell--16-at-1200">
+                  <a href="http://schick.com.au/" target="_blank" class="partners__link partners__link--other">
+                    <img class="partners-other__logo" src="/siteassets/sponsorship/schick.svg?preset=sponsor-small" />
+                  </a>
+                </div>
+                <div class="l-grid__cell l-grid__cell--50 l-grid__cell--33-at-360 l-grid__cell--16-at-1200">
+                  <a href="https://www.homehardware.com.au/" target="_blank" class="partners__link partners__link--other">
+                    <img class="partners-other__logo" src="/siteassets/sponsorship/home.svg?preset=sponsor-small" />
+                  </a>
+                </div>
+                <div class="l-grid__cell l-grid__cell--50 l-grid__cell--33-at-360 l-grid__cell--16-at-1200">
+                  <a href="https://www.steeden.com.au/" target="_blank" class="partners__link partners__link--other">
+                    <img class="partners-other__logo" src="/siteassets/sponsorship/steedon.svg?preset=sponsor-small" />
+                  </a>
+                </div>
+                <div class="l-grid__cell l-grid__cell--50 l-grid__cell--33-at-360 l-grid__cell--16-at-1200">
+                  <a href="https://www.pocruises.com.au/" target="_blank" class="partners__link partners__link--other">
+                    <img class="partners-other__logo" src="/siteassets/sponsorship/po.svg?preset=sponsor-small" />
+                  </a>
+                </div>
+                <div class="l-grid__cell l-grid__cell--50 l-grid__cell--33-at-360 l-grid__cell--16-at-1200">
+                  <a href="https://www.accorhotels.com/gb/australia/index.shtml" target="_blank" class="partners__link partners__link--other">
+                    <img class="partners-other__logo" src="/siteassets/sponsorship/accor.svg?preset=sponsor-small" />
+                  </a>
+                </div>
+                <div class="l-grid__cell l-grid__cell--50 l-grid__cell--33-at-360 l-grid__cell--16-at-1200">
+                  <a href="https://register.donatelife.gov.au/" target="_blank" class="partners__link partners__link--other">
+                    <img class="partners-other__logo" src="/siteassets/sponsorship/givelife.svg?preset=sponsor-small" />
+                  </a>
+                </div>
+                <div class="l-grid__cell l-grid__cell--50 l-grid__cell--33-at-360 l-grid__cell--16-at-1200">
+                  <a href="https://www.wolfblass.com/en-au" target="_blank" class="partners__link partners__link--other">
+                    <img class="partners-other__logo" src="/siteassets/.lookups/sponsors/wolf-blass-small.png?preset=sponsor-small" />
+                  </a>
+                </div>
+                <div class="l-grid__cell l-grid__cell--50 l-grid__cell--33-at-360 l-grid__cell--16-at-1200">
+                  <a href="http://www.intrustsuper.com.au/" target="_blank" class="partners__link partners__link--other">
+                    <img class="partners-other__logo" src="/siteassets/.lookups/sponsors/intrust-super-small.svg?preset=sponsor-small" />
+                  </a>
+                </div>
+                <div class="l-grid__cell l-grid__cell--50 l-grid__cell--33-at-360 l-grid__cell--16-at-1200">
+                  <a href="https://www.couriersplease.com.au/" target="_blank" class="partners__link partners__link--other">
+                    <img class="partners-other__logo" src="/siteassets/sponsorship/couriersplease.svg?preset=sponsor-small" />
+                  </a>
+                </div>
+                <div class="l-grid__cell l-grid__cell--50 l-grid__cell--33-at-360 l-grid__cell--16-at-1200">
+                  <a href="http://www.bodyscience.com.au/" target="_blank" class="partners__link partners__link--other">
+                    <img class="partners-other__logo" src="/siteassets/.lookups/sponsors/bsc-footer.svg?preset=sponsor-small" />
+                  </a>
+                </div>
+                <div class="l-grid__cell l-grid__cell--50 l-grid__cell--33-at-360 l-grid__cell--16-at-1200">
+                  <a href="https://www.canterburynz.com.au/" target="_blank" class="partners__link partners__link--other">
+                    <img class="partners-other__logo" src="/siteassets/.lookups/sponsors/canterbury.svg?preset=sponsor-small" />
+                  </a>
+                </div>
+                <div class="l-grid__cell l-grid__cell--50 l-grid__cell--33-at-360 l-grid__cell--16-at-1200">
+                  <a href="https://www.nsw.gov.au/" target="_blank" class="partners__link partners__link--other">
+                    <img class="partners-other__logo" src="/siteassets/.lookups/sponsors/nsw-gov-small.svg?preset=sponsor-small" />
+                  </a>
+                </div>
+                <div class="l-grid__cell l-grid__cell--50 l-grid__cell--33-at-360 l-grid__cell--16-at-1200">
+                  <a href="https://www.tourism.wa.gov.au/Pages/welcome_to_tourism_western_australia.aspx" target="_blank" class="partners__link partners__link--other">
+                    <img class="partners-other__logo" src="/siteassets/.lookups/sponsors/wa-gov-small.png?preset=sponsor-small" />
+                  </a>
+                </div>
+                <div class="l-grid__cell l-grid__cell--50 l-grid__cell--33-at-360 l-grid__cell--16-at-1200">
+                  <a href="https://www.westernaustralia.com/au/Pages/Welcome_to_Western_Australia.aspx#/" target="_blank" class="partners__link partners__link--other">
+                    <img class="partners-other__logo" src="/siteassets/.lookups/sponsors/perth.svg?preset=sponsor-small" />
+                  </a>
+                </div>
+                <div class="l-grid__cell l-grid__cell--50 l-grid__cell--33-at-360 l-grid__cell--16-at-1200">
+                  <a href="http://www.visitvictoria.com/" target="_blank" class="partners__link partners__link--other">
+                    <img class="partners-other__logo" src="/siteassets/.lookups/sponsors/visit-victoria-small.svg?preset=sponsor-small" />
+                  </a>
+                </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<footer class="footer u-t-bg-color-tint-rm" id="vue-footer">
+  <div class="l-content">
+    <div class="l-content__primary">
+      <div class="l-grid">
+        <div class="l-grid__cell l-grid__cell--padding-small l-grid__cell--padding-medium-at-960">
+            <div class="footer-social l-grid u-spacing-pv-medium">
+              <div class="l-grid__cell l-grid__cell--33-at-768 l-grid__cell--25-at-960 l-grid__cell--16-at-1400">
+                <h3 class="footer__title">Follow the NRL</h3>
+              </div>
+              <ul class="footer-social-networks l-grid__cell l-grid__cell--dont-grow">
+                  <li class="footer-social-networks__item">
+                    <a href="https://www.facebook.com/nrl/" class="footer-social-networks__link u-t-border-color-highlight-on-hover" target="_blank" rel="noopener noreferrer" aria-label="Follow on Facebook">
+                      <svg role="img" focusable="false" class="o-svg footer-social-networks__svg">
+                        <use xlink:href="#svg-logo-facebook" />
+                      </svg>
+                    </a>
+                  </li>
+                                  <li class="footer-social-networks__item">
+                    <a href="https://twitter.com/NRL" class="footer-social-networks__link u-t-border-color-highlight-on-hover" target="_blank" rel="noopener noreferrer" aria-label="Follow on Twitter">
+                      <svg role="img" focusable="false" class="o-svg footer-social-networks__svg">
+                        <use xlink:href="#svg-logo-twitter" />
+                      </svg>
+                    </a>
+                  </li>
+                                  <li class="footer-social-networks__item">
+                    <a href="https://www.instagram.com/nrl/" class="footer-social-networks__link u-t-border-color-highlight-on-hover" target="_blank" rel="noopener noreferrer" aria-label="Follow on Instagram">
+                      <svg role="img" focusable="false" class="o-svg footer-social-networks__svg">
+                        <use xlink:href="#svg-logo-instagram" />
+                      </svg>
+                    </a>
+                  </li>
+              </ul>
+            </div>
+                      <div class="footer-nav l-grid">
+              <nav
+                aria-labelledby="navigation-club-sites-title"
+                class="footer-nav__club l-grid__cell l-grid__cell--100-at-768 l-grid__cell--66-at-1200"
+                role="navigation"
+              >
+                <collapsible
+                  v-bind:is-menu-button="true"
+                  v-bind:static-at-width="768"
+                >
+                  <h3
+                    class="footer__title"
+                    id="navigation-club-sites-title"
+                    slot="button-content"
+                  >
+                    Club Sites
+                  </h3>
+                  <ul
+                    class="l-grid u-spacing-pt-x-small"
+                    slot="button-target"
+                  >
+                    <li class="l-grid__cell l-grid__cell--25 l-grid__cell--12-at-768">
+                      <a href="https://www.broncos.com.au" target="_blank" rel="noopener noreferrer" class="footer-nav-link u-t-color-highlight-on-hover">
+                        <div class="footer-nav-link__content">
+                          <img class="footer-nav-link__svg" src="/client/dist/logos/broncos-badge-light.svg" alt="broncos logo"  />
+                          Broncos
+                        </div>
+                      </a>
+                    </li>
+                    <li class="l-grid__cell l-grid__cell--25 l-grid__cell--12-at-768">
+                      <a href="https://www.raiders.com.au" target="_blank" rel="noopener noreferrer" class="footer-nav-link u-t-color-highlight-on-hover">
+                        <div class="footer-nav-link__content">
+                          <img class="footer-nav-link__svg" src="/client/dist/logos/raiders-badge.svg" alt="raiders logo" />
+                          Raiders
+                        </div>
+                      </a>
+                    </li>
+                    <li class="l-grid__cell l-grid__cell--25 l-grid__cell--12-at-768">
+                      <a href="https://www.bulldogs.com.au" target="_blank" rel="noopener noreferrer" class="footer-nav-link u-t-color-highlight-on-hover">
+                        <div class="footer-nav-link__content">
+                          <img class="footer-nav-link__svg" src="/client/dist/logos/bulldogs-badge.svg" alt="bulldogs logo" />
+                          Bulldogs
+                        </div>
+                      </a>
+                    </li>
+                    <li class="l-grid__cell l-grid__cell--25 l-grid__cell--12-at-768">
+                      <a href="https://www.sharks.com.au" target="_blank" rel="noopener noreferrer" class="footer-nav-link u-t-color-highlight-on-hover">
+                        <div class="footer-nav-link__content">
+                          <img class="footer-nav-link__svg" src="/client/dist/logos/sharks-badge-light.svg" alt="sharks logo" />
+                          Sharks
+                        </div>
+                      </a>
+                    </li>
+                    <li class="l-grid__cell l-grid__cell--25 l-grid__cell--12-at-768">
+                       <a href="https://www.titans.com.au" target="_blank" rel="noopener noreferrer" class="footer-nav-link u-t-color-highlight-on-hover">
+                         <div class="footer-nav-link__content">
+                           <img class="footer-nav-link__svg" src="/client/dist/logos/titans-badge.svg" alt="titans logo" />
+                           Titans
+                         </div>
+                       </a>
+                     </li>
+                     <li class="l-grid__cell l-grid__cell--25 l-grid__cell--12-at-768">
+                      <a href="https://www.seaeagles.com.au" target="_blank" rel="noopener noreferrer" class="footer-nav-link u-t-color-highlight-on-hover">
+                        <div class="footer-nav-link__content">
+                          <img class="footer-nav-link__svg" src="/client/dist/logos/sea-eagles-badge.svg" alt="sea eagles logo" />
+                          Sea Eagles
+                        </div>
+                      </a>
+                    </li>
+                    <li class="l-grid__cell l-grid__cell--25 l-grid__cell--12-at-768">
+                      <a href="https://www.melbournestorm.com.au" target="_blank" rel="noopener noreferrer" class="footer-nav-link u-t-color-highlight-on-hover">
+                        <div class="footer-nav-link__content">
+                          <img class="footer-nav-link__svg" src="/client/dist/logos/storm-badge.svg" alt="storm logo" />
+                          Storm
+                        </div>
+                      </a>
+                    </li>
+                    <li class="l-grid__cell l-grid__cell--25 l-grid__cell--12-at-768">
+                      <a href="https://www.newcastleknights.com.au" target="_blank" rel="noopener noreferrer" class="footer-nav-link u-t-color-highlight-on-hover">
+                        <div class="footer-nav-link__content">
+                          <img class="footer-nav-link__svg" src="/client/dist/logos/knights-badge-light.svg" alt="knights logo" />
+                          Knights
+                        </div>
+                      </a>
+                    </li>
+                    <li class="l-grid__cell l-grid__cell--25 l-grid__cell--12-at-768">
+                      <a href="https://www.cowboys.com.au" target="_blank" rel="noopener noreferrer" class="footer-nav-link u-t-color-highlight-on-hover">
+                        <div class="footer-nav-link__content">
+                          <img class="footer-nav-link__svg" src="/client/dist/logos/cowboys-badge-light.svg" alt="cowboys logo" />
+                          Cowboys
+                        </div>
+                      </a>
+                    </li>
+                    <li class="l-grid__cell l-grid__cell--25 l-grid__cell--12-at-768">
+                      <a href="https://www.parraeels.com.au/" target="_blank" rel="noopener noreferrer" class="footer-nav-link u-t-color-highlight-on-hover">
+                        <div class="footer-nav-link__content">
+                          <img class="footer-nav-link__svg" src="/client/dist/logos/eels-badge.svg" alt="eels logo" />
+                          Eels
+                        </div>
+                      </a>
+                    </li>
+                    <li class="l-grid__cell l-grid__cell--25 l-grid__cell--12-at-768">
+                      <a href="https://www.penrithpanthers.com.au" target="_blank" rel="noopener noreferrer" class="footer-nav-link u-t-color-highlight-on-hover">
+                        <div class="footer-nav-link__content">
+                          <img class="footer-nav-link__svg" src="/client/dist/logos/panthers-badge-light.svg" alt="panthers logo" />
+                          Panthers
+                        </div>
+                      </a>
+                    </li>
+                    <li class="l-grid__cell l-grid__cell--25 l-grid__cell--12-at-768">
+                      <a href="https://www.rabbitohs.com.au" target="_blank" rel="noopener noreferrer" class="footer-nav-link u-t-color-highlight-on-hover">
+                        <div class="footer-nav-link__content">
+                          <img class="footer-nav-link__svg" src="/client/dist/logos/rabbitohs-badge-light.svg" alt="rabbitohs logo" />
+                          Rabbitohs
+                        </div>
+                      </a>
+                    </li>
+                    <li class="l-grid__cell l-grid__cell--25 l-grid__cell--12-at-768">
+                      <a href="https://www.dragons.com.au" target="_blank" rel="noopener noreferrer" class="footer-nav-link u-t-color-highlight-on-hover">
+                        <div class="footer-nav-link__content">
+                          <img class="footer-nav-link__svg" src="/client/dist/logos/dragons-badge.svg" alt="dragons logo" />
+                          Dragons
+                        </div>
+                      </a>
+                    </li>
+                    <li class="l-grid__cell l-grid__cell--25 l-grid__cell--12-at-768">
+                      <a href="https://www.roosters.com.au" target="_blank" rel="noopener noreferrer" class="footer-nav-link u-t-color-highlight-on-hover">
+                        <div class="footer-nav-link__content">
+                          <img class="footer-nav-link__svg" src="/client/dist/logos/roosters-badge.svg" alt="roosters logo" />
+                          Roosters
+                        </div>
+                      </a>
+                    </li>
+                    <li class="l-grid__cell l-grid__cell--25 l-grid__cell--12-at-768">
+                      <a href="https://www.warriors.kiwi" target="_blank" rel="noopener noreferrer" class="footer-nav-link u-t-color-highlight-on-hover">
+                        <div class="footer-nav-link__content">
+                          <img class="footer-nav-link__svg" src="/client/dist/logos/warriors-badge-light.svg" alt="warriors logo" />
+                          Warriors
+                        </div>
+                      </a>
+                    </li>
+                    <li class="l-grid__cell l-grid__cell--25 l-grid__cell--12-at-768">
+                      <a href="https://www.weststigers.com.au" target="_blank" rel="noopener noreferrer" class="footer-nav-link u-t-color-highlight-on-hover">
+                        <div class="footer-nav-link__content">
+                          <img class="footer-nav-link__svg" src="/client/dist/logos/wests-tigers-badge-light.svg" alt="wests tigers logo" />
+                          Wests Tigers
+                        </div>
+                      </a>
+                    </li>
+                  </ul>
+                </collapsible>
+              </nav>
+              <nav
+                aria-labelledby="navigation-state-sites-title"
+                class="footer-nav__state l-grid__cell l-grid__cell--100-at-768 l-grid__cell--33-at-1200"
+                role="navigation"
+              >
+                <collapsible
+                  v-bind:is-menu-button="true"
+                  v-bind:static-at-width="768"
+                >
+                  <h3
+                    class="footer__title"
+                    id="navigation-state-sites-title"
+                    slot="button-content"
+                  >
+                    State Sites
+                  </h3>
+                  <ul
+                    class="l-grid u-spacing-pt-x-small"
+                    slot="button-target"
+                  >
+                    <li class="l-grid__cell l-grid__cell--25 l-grid__cell--12-at-768 l-grid__cell--25-at-1200">
+                      <a href="http://crlnsw.com.au" target="_blank" rel="noopener noreferrer" class="footer-nav-link u-t-color-highlight-on-hover">
+                        <div class="footer-nav-link__content">
+                          <img class="footer-nav-link__svg" src="/client/dist/logos/crl-badge.svg" alt="crl logo" />
+                          CRL
+                        </div>
+                      </a>
+                    </li>
+                    <li class="l-grid__cell l-grid__cell--25 l-grid__cell--12-at-768 l-grid__cell--25-at-1200">
+                      <a href="https://www.nswrl.com.au" target="_blank" rel="noopener noreferrer" class="footer-nav-link u-t-color-highlight-on-hover">
+                        <div class="footer-nav-link__content">
+                          <img class="footer-nav-link__svg" src="/client/dist/logos/nswrl-badge.svg" alt="nswrl logo" />
+                          NSW
+                        </div>
+                      </a>
+                    </li>
+                    <li class="l-grid__cell l-grid__cell--25 l-grid__cell--12-at-768 l-grid__cell--25-at-1200">
+                      <a href="http://websites.sportstg.com/assoc_page.cgi?client&#x3D;7-719-0-0-0" target="_blank" rel="noopener noreferrer" class="footer-nav-link u-t-color-highlight-on-hover">
+                        <div class="footer-nav-link__content">
+                          <img class="footer-nav-link__svg" src="/client/dist/logos/nt-badge.svg" alt="nt logo" />
+                          NT
+                        </div>
+                      </a>
+                    </li>
+                    <li class="l-grid__cell l-grid__cell--25 l-grid__cell--12-at-768 l-grid__cell--25-at-1200">
+                      <a href="https://www.qrl.com.au" target="_blank" rel="noopener noreferrer" class="footer-nav-link u-t-color-highlight-on-hover">
+                        <div class="footer-nav-link__content">
+                          <img class="footer-nav-link__svg" src="/client/dist/logos/qrl-badge.svg" alt="qrl logo" />
+                          QLD
+                        </div>
+                      </a>
+                    </li>
+                    <li class="l-grid__cell l-grid__cell--25 l-grid__cell--12-at-768 l-grid__cell--25-at-1200">
+                      <a href="http://www.sarugbyleague.com.au" target="_blank" rel="noopener noreferrer" class="footer-nav-link u-t-color-highlight-on-hover">
+                        <div class="footer-nav-link__content">
+                          <img class="footer-nav-link__svg" src="/client/dist/logos/sa-badge.svg" alt="sa logo" />
+                          SA
+                        </div>
+                      </a>
+                    </li>
+                    <li class="l-grid__cell l-grid__cell--25 l-grid__cell--12-at-768 l-grid__cell--25-at-1200">
+                      <a href="http://websites.sportstg.com/assoc_page.cgi?assoc&#x3D;2120&amp;name&#x3D;Tasmania%20Rugby%20League&amp;client&#x3D;%40%40%40%40%40%40%40%40%40%407%40" target="_blank" rel="noopener noreferrer" class="footer-nav-link u-t-color-highlight-on-hover">
+                        <div class="footer-nav-link__content">
+                          <img class="footer-nav-link__svg" src="/client/dist/logos/tas-badge.svg" alt="tas logo" />
+                          TAS
+                        </div>
+                      </a>
+                    </li>
+                    <li class="l-grid__cell l-grid__cell--25 l-grid__cell--12-at-768 l-grid__cell--25-at-1200">
+                      <a href="http://websites.sportstg.com/assoc_page.cgi?client&#x3D;7-2121-0-0-0" target="_blank" rel="noopener noreferrer" class="footer-nav-link u-t-color-highlight-on-hover">
+                        <div class="footer-nav-link__content">
+                          <img class="footer-nav-link__svg" src="/client/dist/logos/vic-badge.svg" alt="vic logo" />
+                          VIC
+                        </div>
+                      </a>
+                    </li>
+                    <li class="l-grid__cell l-grid__cell--25 l-grid__cell--12-at-768 l-grid__cell--25-at-1200">
+                      <a href="http://nrlwa.com.au" target="_blank" rel="noopener noreferrer" class="footer-nav-link u-t-color-highlight-on-hover">
+                        <div class="footer-nav-link__content">
+                          <img class="footer-nav-link__svg" src="/client/dist/logos/wa-badge.svg" alt="wa logo" />
+                          WA
+                        </div>
+                      </a>
+                    </li>
+                  </ul>
+                </collapsible>
+              </nav>
+            </div>
+          <div class="footer-legal">
+            <ul class="footer-legal-links">
+              <li class="footer-legal-links__item"><a class="footer-legal-links__text u-t-color-highlight-on-hover" href="/terms-and-conditions">Terms &amp; Conditions</a></li>
+              <li class="footer-legal-links__item"><a class="footer-legal-links__text u-t-color-highlight-on-hover" href="/privacy-policy">Privacy Policy</a></li>
+            </ul>
+            <ul class="footer-legal-links footer-legal-links--contact">
+              <li class="footer-legal-links__item"><a class="footer-legal-links__text u-t-color-highlight-on-hover" href="/careers">Careers</a></li>
+              <li class="footer-legal-links__item"><a class="footer-legal-links__text u-t-color-highlight-on-hover" href="https://help.nrl.com" target="help">Help</a></li>
+              <li class="footer-legal-links__item"><a class="footer-legal-links__text u-t-color-highlight-on-hover" href="/contact-us">Contact Us</a></li>
+            </ul>
+            <div class="footer-legal__copyright">&copy; 2018 National Rugby League</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+        </div>
+      </main>
+    </div>
+
+    <script src="/Client/dist/app.js?v=B82A5A16"></script>
+    <script src="/Client/dist/nrl.js?v=C6F5582E"></script>
+    <script type="text/javascript" src="https://dl.episerver.net/12.7.1/epi-util/find.js"></script>
+<script type="text/javascript">
+if(FindApi){var api = new FindApi();api.setApplicationUrl('/');api.setServiceApiBaseUrl('/find_v2/');api.processEventFromCurrentUri();api.bindWindowEvents();api.bindAClickEvent();api.sendBufferedEvents();}
+</script>
+
+  <script type="text/javascript">
+/*{literal}<![CDATA[*/window.lightningjs || function (c) { function g(b, d) { d && (d += (/\?/.test(d) ? "&" : "?") + "lv=1"); c[b] || function () { var i = window, h = document, j = b, g = h.location.protocol, l = "load", k = 0; (function () { function b() { a.P(l); a.w = 1; c[j]("_load") } c[j] = function () { function m() { m.id = e; return c[j].apply(m, arguments) } var b, e = ++k; b = this && this != i ? this.id || 0 : 0; (a.s = a.s || []).push([e, b, arguments]); m.then = function (b, c, h) { var d = a.fh[e] = a.fh[e] || [], j = a.eh[e] = a.eh[e] || [], f = a.ph[e] = a.ph[e] || []; b && d.push(b); c && j.push(c); h && f.push(h); return m }; return m }; var a = c[j]._ = {}; a.fh = {}; a.eh = {}; a.ph = {}; a.l = d ? d.replace(/^\/\//, (g == "https:" ? g : "http:") + "//") : d; a.p = { 0: +new Date }; a.P = function (b) { a.p[b] = new Date - a.p[0] }; a.w && b(); i.addEventListener ? i.addEventListener(l, b, !1) : i.attachEvent("on" + l, b); var q = function () { function b() { return ["<head></head><", c, ' onload="var d=', n, ";d.getElementsByTagName('head')[0].", d, "(d.", g, "('script')).", i, "='", a.l, "'\"></", c, ">"].join("") } var c = "body", e = h[c]; if (!e) return setTimeout(q, 100); a.P(1); var d = "appendChild", g = "createElement", i = "src", k = h[g]("div"), l = k[d](h[g]("div")), f = h[g]("iframe"), n = "document", p; k.style.display = "none"; e.insertBefore(k, e.firstChild).id = o + "-" + j; f.frameBorder = "0"; f.id = o + "-frame-" + j; /MSIE[ ]+6/.test(navigator.userAgent) && (f[i] = "javascript:false"); f.allowTransparency = "true"; l[d](f); try { f.contentWindow[n].open() } catch (s) { a.domain = h.domain, p = "javascript:var d=" + n + ".open();d.domain='" + h.domain + "';", f[i] = p + "void(0);" } try { var r = f.contentWindow[n]; r.write(b()); r.close() } catch (t) { f[i] = p + 'd.write("' + b().replace(/"/g, String.fromCharCode(92) + '"') + '");d.close();' } a.P(2) }; a.l && setTimeout(q, 0) })() }(); c[b].lv = "1"; return c[b] } var o = "lightningjs", k = window[o] = g(o); k.require = g; k.modules = c }({});
+    if (!navigator.userAgent.match(/Android|BlackBerry|BB10|iPhone|iPad|iPod|Opera Mini|IEMobile/i)) { window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/a112b1f132cc.js"); } else { window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/9d68fa0ad763.js"); }/*]]>{/literal}*/</script>
+
+    </body>
+</html>
