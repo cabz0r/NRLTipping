@@ -2,9 +2,6 @@
 
 include_once 'variables.php';
 
-
-include_once 'variables.php';
-
 $var = new variables();
 $conn = odbc_connect($var->getODBC(),$var->getUser(),$var->getPass());
 
